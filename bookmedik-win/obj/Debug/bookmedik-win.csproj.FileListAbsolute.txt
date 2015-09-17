@@ -1,0 +1,14 @@
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\bin\Debug\bookmedik-win.exe
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\bin\Debug\bookmedik-win.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik-win.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.Form1.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.Properties.Resources.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik-win.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik-win.exe
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik-win.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.PacientForm.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.MedicForm.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.ReservationForm.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.MedicWindow.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.PacientWindow.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.About.resources
